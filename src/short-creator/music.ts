@@ -192,6 +192,14 @@ export class MusicManager {
       end: 95,
       mood: MusicMoodEnum.dark,
     },
+
+    // ¡Aquí va tu nueva canción!
+    {
+      file: "Synthwave goose - Blade Runner 2049 (speed up) - Fimbusong.mp3",
+      start: 0,
+      end: 180,
+      mood: MusicMoodEnum.mystery, // Puedes cambiarlo a chill, excited, etc.
+    },
   ];
 
   constructor(private config: Config) {}
