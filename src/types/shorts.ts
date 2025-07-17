@@ -13,6 +13,7 @@ export enum MusicMoodEnum {
   hopeful = "hopeful",
   contemplative = "contemplative",
   funny = "funny/quirky",
+  mystery = "mystery",
 }
 
 export enum CaptionPositionEnum {
